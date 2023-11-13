@@ -16,7 +16,13 @@ An example Jython dropbox including a full CI/CD pipeline
 for local testing
 https://github.com/empa-scientific-it/dropbox-402
 
-## Dropbox for Tescan Clara 
+## Dropbox for Electron Microscopes
 This dropbox is based on the generic ELN-LIMS dropbox and has been adapted to extract metadata from TIFF images
-produced by a TESCAN Clara electron microscope
-https://git.rwth-aachen.de/Kerzel/openbistools/-/tree/main/dropboxes/imm_clara/ 
+produced by the following electron microscopes: Tescan Clara, FEI Helios, Zeiss LEO
+https://git.rwth-aachen.de/Kerzel/openbistools/-/tree/main/dropboxes.
+
+## Register Link Data
+Uses the OpenBIS API and PyBis to register data stored on an external (S3) datastore and manage the metadata within OpenBIS
+https://git.rwth-aachen.de/Kerzel/openbistools/-/tree/main/register_linkdata
+/home/kerzel/README.md 
+
