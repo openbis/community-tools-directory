@@ -20,3 +20,7 @@ https://github.com/empa-scientific-it/dropbox-402
 This dropbox is based on the generic ELN-LIMS dropbox and has been adapted to extract metadata from TIFF images
 produced by a TESCAN Clara electron microscope
 https://git.rwth-aachen.de/Kerzel/openbistools/-/tree/main/dropboxes/imm_clara/ 
+
+## OpenBIS Chef
+A webapp to guide users through data entry workflows in openBIS
+https://github.com/empa-scientific-it/openbis-chef
