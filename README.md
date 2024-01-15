@@ -24,3 +24,8 @@ https://git.rwth-aachen.de/Kerzel/openbistools/-/tree/main/dropboxes/imm_clara/
 ## OpenBIS Chef
 A webapp to guide users through data entry workflows in openBIS
 https://github.com/empa-scientific-it/openbis-chef
+
+## Empa Abt207 Uploader
+A client-side python code to upload (and edit) data and metadata. Main aim is to speed up input time. Both GUI and automation are possible.
+https://gitlab.empa.ch/openbis-tools/openbis_uploader_207
+
